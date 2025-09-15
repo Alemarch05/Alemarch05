@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Alemarch05/Alemarch05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alejandro Martinez Cisneros
 
-Here are some ideas to get you started:
+Desarrollador en formación con experiencia en el desarrollo de aplicaciones web Full Stack utilizando Laravel, Bootstrap, PHP, MySQL, JavaScript, Angular, C# y .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Apasionado por aprender nuevas tecnologías, mejorar continuamente y aportar soluciones innovadoras.
+
+🔧 Experiencia con CMS (WordPress), LMS (Moodle), y conocimientos en Docker y Ubuntu.
+
+🤝 Habilidades en trabajo en equipo, liderazgo y comunicación efectiva.
+
+# Proyectos empresariales
+
+Ofertas Laborales (https://moodle.cecep.edu.co/ofertas/)
+
+
+
+# Estadisticas de GitHub
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alemarch05&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+#  Lenguajes mas usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alemarch05&layout=donut&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
