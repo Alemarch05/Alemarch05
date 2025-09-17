@@ -15,10 +15,6 @@ Ofertas Laborales (https://moodle.cecep.edu.co/ofertas/)
 
 
 
-# Estadisticas de GitHub
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alemarch05&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 #  Lenguajes mas usados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alemarch05&layout=donut&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
