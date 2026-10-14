@@ -1,7 +1,7 @@
 
 # Alejandro Martinez Cisneros
 
-Desarrollador en formación con experiencia en el desarrollo de aplicaciones web Full Stack utilizando Laravel, Python, Bootstrap, PHP, MySQL, JavaScript, Angular, C# y .NET.
+Desarrollador fullstack con experiencia en el desarrollo de aplicaciones web Full Stack utilizando Laravel, Python, Bootstrap, PHP, MySQL, JavaScript, Angular, C# y .NET.
 
 🚀 Apasionado por aprender nuevas tecnologías, mejorar continuamente y aportar soluciones innovadoras.
 
